@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ayush708/True-Gate-Redo
+build-by-default: true
+branches:
+- main
+projects:
+  True-Gate-Redo:
+    path: " true gate redo"
+...
