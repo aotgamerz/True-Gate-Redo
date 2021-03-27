@@ -1,6 +1,6 @@
 <?php
 
-namespace aotgamer\Dungeon;
+namespace aotgamerz\dungeon;
 
 use pocketmine\block\Block;
 use pocketmine\scheduler\Task;
