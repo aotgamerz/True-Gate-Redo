@@ -5,5 +5,5 @@ branches:
 projects:
   True-Gate-Redo:
     path: /
-    icon: icon.png
+    icon: "icon.png"
 ...
