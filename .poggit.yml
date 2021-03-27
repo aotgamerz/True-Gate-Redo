@@ -4,5 +4,6 @@ branches:
 - main
 projects:
   True-Gate-Redo:
-    path: " true gate redo"
+    path: /
+    icon: icon.png
 ...
